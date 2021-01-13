@@ -20,6 +20,13 @@
 - Github (create repo, connect to local repo, pull request and merge)
 
 
+## How to Run 
+
+npm install
+
+npm start
+
+
 
 
 
